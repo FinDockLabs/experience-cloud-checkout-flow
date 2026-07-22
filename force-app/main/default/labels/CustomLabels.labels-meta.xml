@@ -3,7 +3,7 @@
     <!-- Checkout Flow -->
     <labels>
         <fullName>ec_pay_button_prefix</fullName>
-        <categories>Experience Cloud</categories>
+        <categories>FinDock, Experience Cloud</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Prefix shown before the amount on the pay button (e.g. "Pay €167.00")</shortDescription>
@@ -11,7 +11,7 @@
     </labels>
     <labels>
         <fullName>ec_frequency_label_one_time</fullName>
-        <categories>Experience Cloud</categories>
+        <categories>FinDock, Experience Cloud</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Displayed frequency for a one-time payment</shortDescription>
@@ -19,7 +19,7 @@
     </labels>
     <labels>
         <fullName>ec_frequency_label_monthly</fullName>
-        <categories>Experience Cloud</categories>
+        <categories>FinDock, Experience Cloud</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Displayed frequency for a recurring payment</shortDescription>
